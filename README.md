@@ -3,7 +3,7 @@
 
 * Semana 1: Probabilidade
 
-* Semana 2: Funções de Probabilidade... 🚧 🧱
+* Semana 2: Funções de Probabilidade
 
 * Semana 3: Distribuições de Probabilidade... 🚧 🧱
 
